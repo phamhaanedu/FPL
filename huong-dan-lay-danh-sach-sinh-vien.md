@@ -11,7 +11,7 @@
 - Kết quả sẽ hiện ra trong console
 ![sao chép kết quả](huong-dan-lay-danh-sach-sinh-vien-2.png)
 - Tại file google sheet chia sẻ bộ môn mỗi block, chọn ô trống đầu tiên cột B, và dán kết quả vào đó 
-Link kỳ *Spring 26 Block 2*: https://docs.google.com/spreadsheets/d/1iAflGwTx5LUvIMWQIOggQMOcSlTc8UvKjHtHymAvp28/edit?usp=sharing
+Link kỳ *Summer 26 Block 1*: https://docs.google.com/spreadsheets/d/1lH7qu57r5d4zOqgmn8KjEgtWwGLPI05Dyceowp5hPrg/edit?usp=sharing
 - Điền mã gv vào cột *H*
 
 ## Lưu ý
